@@ -1,0 +1,6 @@
+{
+  "name": "@securify/sdk",
+  "version": "0.4.2",
+  "main": "index.js",
+  "dependencies": { "axios": "0.21.0" }
+}
